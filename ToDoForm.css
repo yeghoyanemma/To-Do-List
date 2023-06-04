@@ -1,0 +1,29 @@
+.TopDiv{
+    width: 60%;
+    height: 30px;
+    margin-left: 20%;
+    margin-top: 7%;
+   
+}
+.input{
+    border: none;
+    padding: 7px;
+    border-radius: 3px;
+    background-color: white;
+    width: 84%;
+    font-family: monospace;
+    font-size: 15px;
+}
+.add{
+    float: right;
+    border: none;
+    padding: 6px 17px 6px 17px;
+    font-weight: bolder;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgb(63, 56, 59);
+    color: white;
+    border-radius: 2px; 
+    font-family: monospace;
+    font-size: 17px;
+}

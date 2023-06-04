@@ -1,0 +1,11 @@
+.todoList{
+    min-height: 100px;
+    padding-bottom: 100px;
+}
+.noitems{
+    margin-left: 45%;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 23px;
+    color: rgb(88, 88, 88);
+}

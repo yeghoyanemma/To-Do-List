@@ -1,0 +1,17 @@
+.ItemsDiv{
+    width: 60%;
+    height: 33px;
+    margin-left: 20%;
+    margin-top: 50px;
+    background-color: white;
+    font-size: 18px;
+    font-family: monospace;
+    align-items: center;
+}
+.X{
+    width: 20px;
+    float: right;
+    margin-top: 1.3%;
+    border: none;
+    cursor: pointer;
+}

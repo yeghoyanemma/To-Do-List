@@ -1,0 +1,18 @@
+body{
+    background-color: #B5A7B8;
+}
+.MainDiv{
+    width: 60%;
+    min-height: 600px;
+    margin-left: 20%;
+    margin-top: 7%;
+    position: relative;
+    /* border: solid 1px black; */
+}
+.todotext{
+    text-align: center;
+    margin-top: 5%;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: cursive;
+}
